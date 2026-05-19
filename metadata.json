@@ -1,0 +1,8 @@
+{
+  "name": "SPPG BANGKALAN KAMAL 3",
+  "description": "Aplikasi profesional untuk mengelola Rencana Anggaran Biaya (RAB) bahan baku harian dengan fitur export Excel \u0026 PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
